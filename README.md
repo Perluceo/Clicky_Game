@@ -1,3 +1,9 @@
+<h1>Clicky Game</h1>
+
+<p>Clicky Game is a memory game giving a score point for not selecting the same image twice.  Once an image is clicked the pictures randomly align to test the user's memory of the image they have already selected while incrementing the score for each unique click</p>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
